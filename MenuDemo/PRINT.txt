@@ -1,0 +1,90 @@
+1
+Name: Phone
+Code: 455563
+Type: Phone
+Detail: Gold 64GB SnapDragon 430
+Creation Date: 6 6 2016
+Using Date:    7 9 2017
+Unit: DinhHoang
+Cost: 250$
+Note: likenew
+2
+Name: Car
+Code: 652146
+Type: Car
+Detail: 2.4G Black Japan
+Creation Date: 10 5 2011
+Using Date:    5 9 2013
+Unit: c152
+Cost: 30000$
+Note: Broken
+3
+Name: Camera
+Code: 998456
+Type: Camera
+Detail: 18.6MPX Lens Kit 18-55mm
+Creation Date: 30 6 2016
+Using Date:    4 6 2017
+Unit: LinhVuVu
+Cost: 450$
+Note: None
+4
+Name: Dcom
+Code: 452234
+Type: Dcom
+Detail: While 1SIM 21.6Mbps
+Creation Date: 14 4 2016
+Using Date:    4 3 2017
+Unit: LinhVuVu
+Cost: 27$
+Note: Hoang is borrowing
+5
+Name: Laptop
+Code: 913347
+Type: Laptop
+Detail: HD RAM8GB HHD500GB
+Creation Date: 20 11 2007
+Using Date:    30 4 2015
+Unit: LinhVuVu
+Cost: 745$
+Note: None
+6
+Name: Car
+Code: 111245
+Type: Car
+Detail: 2.4G 200HP
+Creation Date: 10 5 2017
+Using Date:    16 7 2017
+Unit: d1
+Cost: 27000$
+Note: new
+7
+Name: Mouse
+Code: 236547
+Type: Mouse
+Detail: White Black Pattern
+Creation Date: 14 5 2017
+Using Date:    17 9 2017
+Unit: c151
+Cost: 7$
+Note: Good
+8
+Name: Phone
+Code: 776432
+Type: Phone
+Detail: FullHD 20MPX 64GB
+Creation Date: 15 1 2014
+Using Date:    25 2 2015
+Unit: LinhVuVu
+Cost: 550$
+Note: Yellow
+9
+Name: Camera
+Code: 456214
+Type: Camera
+Detail: 23MPX FF
+Creation Date: 12 4 2013
+Using Date:    14 6 2015
+Unit: c152
+Cost: 800$
+Note: new
